@@ -1,4 +1,8 @@
 ### Hi there 👋
+Mobile developer, programming mainly on android and flutter.   
+I'm always interested in development trends and want to grow into a talented developer.   
+   
+Recently, I am developing an editor for my company. and participated in the editor core development using proseMirror, got a lot of interest in the web.
 
 <!--
 **JunpilPark/JunpilPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
