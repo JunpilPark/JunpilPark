@@ -13,6 +13,9 @@ Recently, I have been working hard to study Android's architecture, unit tests, 
 <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"></img>
 <img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white"></img>
 
+## resume
+[성장하는 안드로이드 개발자 - 박준필](https://bouncy-tumbleweed-ded.notion.site/b7e1a8da003f496cbbbc4b87cc482ca3)
+
 <!--
 **JunpilPark/JunpilPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
